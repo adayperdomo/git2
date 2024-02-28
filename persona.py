@@ -6,5 +6,6 @@ class persona:
     def imprimir(self):
         print(self.nombre, "tiene:", self.anos)
 
-    
+    def cumpleaños(self):
+        print(self.nombre, "cumple:", self.anos)
     
