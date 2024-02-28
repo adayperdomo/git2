@@ -8,4 +8,8 @@ def main():
     vaca = animal()
     vaca.patas = 4
     vaca.caminar()
+
+    pato = animal()
+    pato.patas = 2
+    pato.caminar()
     
