@@ -3,5 +3,8 @@ class persona:
         self.nombre = nombre
         self.anos = anos
 
+    def imprimir(self):
+        print(self.nombre, "tiene:", self.anos)
+
     
     
