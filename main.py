@@ -3,7 +3,7 @@ from persona import persona
 def main():
     juan = persona("juan", 15)
     juan.imprimir()
-    juan.promociona()
+    juan.cumpleanos()
 
 if __name__ == "__main__":
     main()
