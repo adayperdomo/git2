@@ -12,4 +12,9 @@ def main():
     pato = animal()
     pato.patas = 2
     pato.caminar()
+
+    vaca.caminar()
+
+if __name__ == "__main__":
+    main
     
